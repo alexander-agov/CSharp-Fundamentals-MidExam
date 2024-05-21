@@ -1,0 +1,14 @@
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\MidExam\HeartDelivery\bin\Debug\net8.0\HeartDelivery.exe
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\MidExam\HeartDelivery\bin\Debug\net8.0\HeartDelivery.deps.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\MidExam\HeartDelivery\bin\Debug\net8.0\HeartDelivery.runtimeconfig.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\MidExam\HeartDelivery\bin\Debug\net8.0\HeartDelivery.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\MidExam\HeartDelivery\bin\Debug\net8.0\HeartDelivery.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\MidExam\HeartDelivery\obj\Debug\net8.0\HeartDelivery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\MidExam\HeartDelivery\obj\Debug\net8.0\HeartDelivery.AssemblyInfoInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\MidExam\HeartDelivery\obj\Debug\net8.0\HeartDelivery.AssemblyInfo.cs
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\MidExam\HeartDelivery\obj\Debug\net8.0\HeartDelivery.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\MidExam\HeartDelivery\obj\Debug\net8.0\HeartDelivery.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\MidExam\HeartDelivery\obj\Debug\net8.0\refint\HeartDelivery.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\MidExam\HeartDelivery\obj\Debug\net8.0\HeartDelivery.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\MidExam\HeartDelivery\obj\Debug\net8.0\HeartDelivery.genruntimeconfig.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\MidExam\HeartDelivery\obj\Debug\net8.0\ref\HeartDelivery.dll
