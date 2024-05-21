@@ -1,0 +1,14 @@
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\MidExam\BonusScoringSystem\bin\Debug\net8.0\BonusScoringSystem.exe
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\MidExam\BonusScoringSystem\bin\Debug\net8.0\BonusScoringSystem.deps.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\MidExam\BonusScoringSystem\bin\Debug\net8.0\BonusScoringSystem.runtimeconfig.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\MidExam\BonusScoringSystem\bin\Debug\net8.0\BonusScoringSystem.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\MidExam\BonusScoringSystem\bin\Debug\net8.0\BonusScoringSystem.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\MidExam\BonusScoringSystem\obj\Debug\net8.0\BonusScoringSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\MidExam\BonusScoringSystem\obj\Debug\net8.0\BonusScoringSystem.AssemblyInfoInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\MidExam\BonusScoringSystem\obj\Debug\net8.0\BonusScoringSystem.AssemblyInfo.cs
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\MidExam\BonusScoringSystem\obj\Debug\net8.0\BonusScoringSystem.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\MidExam\BonusScoringSystem\obj\Debug\net8.0\BonusScoringSystem.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\MidExam\BonusScoringSystem\obj\Debug\net8.0\refint\BonusScoringSystem.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\MidExam\BonusScoringSystem\obj\Debug\net8.0\BonusScoringSystem.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\MidExam\BonusScoringSystem\obj\Debug\net8.0\BonusScoringSystem.genruntimeconfig.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\MidExam\BonusScoringSystem\obj\Debug\net8.0\ref\BonusScoringSystem.dll
