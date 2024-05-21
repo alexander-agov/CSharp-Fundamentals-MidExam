@@ -1,0 +1,14 @@
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\MidExam\ArrayModifier\bin\Debug\net8.0\ArrayModifier.exe
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\MidExam\ArrayModifier\bin\Debug\net8.0\ArrayModifier.deps.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\MidExam\ArrayModifier\bin\Debug\net8.0\ArrayModifier.runtimeconfig.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\MidExam\ArrayModifier\bin\Debug\net8.0\ArrayModifier.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\MidExam\ArrayModifier\bin\Debug\net8.0\ArrayModifier.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\MidExam\ArrayModifier\obj\Debug\net8.0\ArrayModifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\MidExam\ArrayModifier\obj\Debug\net8.0\ArrayModifier.AssemblyInfoInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\MidExam\ArrayModifier\obj\Debug\net8.0\ArrayModifier.AssemblyInfo.cs
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\MidExam\ArrayModifier\obj\Debug\net8.0\ArrayModifier.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\MidExam\ArrayModifier\obj\Debug\net8.0\ArrayModifier.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\MidExam\ArrayModifier\obj\Debug\net8.0\refint\ArrayModifier.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\MidExam\ArrayModifier\obj\Debug\net8.0\ArrayModifier.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\MidExam\ArrayModifier\obj\Debug\net8.0\ArrayModifier.genruntimeconfig.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\MidExam\ArrayModifier\obj\Debug\net8.0\ref\ArrayModifier.dll
