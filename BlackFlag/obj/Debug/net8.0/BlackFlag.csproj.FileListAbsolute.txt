@@ -1,0 +1,4 @@
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\MidExam\BlackFlag\obj\Debug\net8.0\BlackFlag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\MidExam\BlackFlag\obj\Debug\net8.0\BlackFlag.AssemblyInfoInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\MidExam\BlackFlag\obj\Debug\net8.0\BlackFlag.AssemblyInfo.cs
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\MidExam\BlackFlag\obj\Debug\net8.0\BlackFlag.csproj.CoreCompileInputs.cache
